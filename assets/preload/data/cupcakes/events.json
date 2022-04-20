@@ -1,0 +1,99 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "cup",
+		"player1": "bfpony",
+		"player2": "pinkie",
+		"player3": null,
+		"events": [
+			[
+				18477.2727272727,
+				[
+					[
+						"Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				94840.909090909,
+				[
+					[
+						"Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				94909.0909090908,
+				[
+					[
+						"Change Character",
+						"dad",
+						"pinkamena"
+					]
+				]
+			],
+			[
+				158250,
+				[
+					[
+						"Screen Shake",
+						"",
+						"1, 0.05"
+					]
+				]
+			],
+			[
+				158727.272727272,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gfponyded"
+					]
+				]
+			],
+			[
+				161454.545454545,
+				[
+					[
+						"Change Character",
+						"dad",
+						"pinkie"
+					]
+				]
+			],
+			[
+				220568.181818181,
+				[
+					[
+						"Change Character",
+						"dad",
+						"pinkiebonk"
+					]
+				]
+			],
+			[
+				220572.443181818,
+				[
+					[
+						"Play Animation",
+						"bonk",
+						"dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gfpony",
+		"bpm": 220,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "cupcakes"
+	}
+}

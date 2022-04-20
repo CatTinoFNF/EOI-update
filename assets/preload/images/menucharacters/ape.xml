@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="coronas.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fluttershy0000" x="0" y="0" width="211" height="186" pivotX="11.45" pivotY="0.35"/>
+</TextureAtlas>

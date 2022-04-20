@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="candyBF.png">
+<TextureAtlas imagePath="candy.png">
 	<!-- Created with Adobe Animate version 21.0.7.42652 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="bf down0000" x="0" y="0" width="335" height="428" frameX="0" frameY="-3" frameWidth="335" frameHeight="431"/>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cierra.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CIERRA0000" x="0" y="0" width="1069" height="1241" frameX="0" frameY="0" frameWidth="1086" frameHeight="1366"/>
+	<SubTexture name="CIERRA0001" x="0" y="0" width="1069" height="1241" frameX="0" frameY="0" frameWidth="1086" frameHeight="1366"/>
+	<SubTexture name="CIERRA0002" x="1069" y="0" width="1055" height="1244" frameX="-17" frameY="-24" frameWidth="1086" frameHeight="1366"/>
+	<SubTexture name="CIERRA0003" x="1069" y="0" width="1055" height="1244" frameX="-17" frameY="-24" frameWidth="1086" frameHeight="1366"/>
+	<SubTexture name="CIERRA0004" x="2124" y="0" width="969" height="1240" frameX="-117" frameY="-126" frameWidth="1086" frameHeight="1366"/>
+	<SubTexture name="CIERRA0005" x="2124" y="0" width="969" height="1240" frameX="-117" frameY="-126" frameWidth="1086" frameHeight="1366"/>
+	<SubTexture name="CIERRA0006" x="0" y="1244" width="1033" height="1244" frameX="-43" frameY="-58" frameWidth="1086" frameHeight="1366"/>
+	<SubTexture name="CIERRA0007" x="0" y="1244" width="1033" height="1244" frameX="-43" frameY="-58" frameWidth="1086" frameHeight="1366"/>
+</TextureAtlas>

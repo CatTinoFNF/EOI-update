@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				10,
+				-10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "pinkiepie idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-39
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "pinkie down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				39
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "pinkie up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				103,
+				-29
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Pinkie leftt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				12
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "pinkie right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/candyPIE",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "pinkie",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		121,
+		164
+	],
+	"camera_position": [
+		-100,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

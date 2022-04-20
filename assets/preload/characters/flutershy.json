@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				10,
+				-10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "fluter idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				-64
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "fluther down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				163,
+				108
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "fluter up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				515,
+				6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "fluter left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				22
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "fluther right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				40
+			],
+			"anim": "speak",
+			"fps": 24,
+			"name": "ALT ANIMATION",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/shed",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "shed",
+	"flip_x": false,
+	"healthbar_colors": [
+		244,
+		184,
+		212
+	],
+	"camera_position": [
+		0,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

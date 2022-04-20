@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				20,
+				-10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "tlt idle"
+		},
+		{
+			"offsets": [
+				24,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "tlt down"
+		},
+		{
+			"offsets": [
+				17,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "TLT UP"
+		},
+		{
+			"offsets": [
+				66,
+				-32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "tlt left"
+		},
+		{
+			"offsets": [
+				18,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "tlt right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Eurobeat",
+	"position": [
+		150,
+		30
+	],
+	"healthicon": "pinkie",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		121,
+		164
+	],
+	"camera_position": [
+		340,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

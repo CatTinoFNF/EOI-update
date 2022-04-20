@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				10,
+				-10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "pinkie idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				189,
+				149
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "bonk",
+			"loop": false,
+			"name": "PINKIE BONK"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BONK",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "pinkie",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		121,
+		164
+	],
+	"camera_position": [
+		100,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				-7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bf left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				-62
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bf down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-54,
+				17
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-77,
+				-38
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bf right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-13
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "bf left miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-34,
+				-49
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "bf down miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-52,
+				8
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "bf up miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-74,
+				-46
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "bf right miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				-330
+			],
+			"anim": "ded",
+			"fps": 24,
+			"name": "BF DEATH",
+			"indices": []
+		},
+		{
+			"offsets": [
+				140,
+				-330
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "BF DEATH"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BFSHED",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "bfshed",
+	"flip_x": true,
+	"healthbar_colors": [
+		161,
+		222,
+		240
+	],
+	"camera_position": [
+		440,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 0.87
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bLACK idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				15
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bLACK idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bLACK idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bLACK idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-15
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bLACK idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bLACK",
+	"position": [
+		-330,
+		-460
+	],
+	"healthicon": "test",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-1360,
+		-360
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

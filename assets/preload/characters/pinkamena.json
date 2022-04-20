@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				20,
+				-10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "pinkamena idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				-50
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "pinkamena down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				16
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "pinkamena up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				66,
+				-32
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "pinkamena left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				-8
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "pinkamena right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PINKAMENAA",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "pinkie",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		121,
+		164
+	],
+	"camera_position": [
+		100,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

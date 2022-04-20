@@ -1,22 +1,32 @@
 {
-	"songs": [
-		["Satin Panties", "mom", [252, 150, 215]],
-		["High", "mom", [252, 150, 215]],
-		["Milf", "mom", [252, 150, 215]]
+	"storyName": "...",
+	"difficulties": "",
+	"hideFreeplay": true,
+	"weekBackground": "eoi",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-	
+	"weekBefore": "tutorial",
+	"startUnlocked": false,
 	"weekCharacters": [
-		"mom",
-		"bf",
-		"gf"
+		"",
+		"rari",
+		""
 	],
-	"weekBackground": "limo",
-
-	"storyName": "MOMMY MUST MURDER",
-	"weekBefore": "week3",
-	"weekName": "Week 4",
-	"startUnlocked": true,
-
+	"songs": [
+		[
+			"",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "4",
+	"hiddenUntilUnlocked": false
 }

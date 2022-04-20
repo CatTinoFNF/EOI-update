@@ -1,8 +1,8 @@
 {
-	"storyName": "Life is a party",
+	"storyName": "Your New Week",
 	"difficulties": "hard",
 	"hideFreeplay": false,
-	"weekBackground": "eoi",
+	"weekBackground": "stage",
 	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
@@ -10,22 +10,22 @@
 		253
 	],
 	"startUnlocked": true,
-	"hideStoryMode": false,
+	"hideStoryMode": true,
 	"songs": [
 		[
-			"cupcakes",
-			"pinkie",
+			"discord",
+			"discord",
 			[
-				20,
-				20,
-				33
+				146,
+				113,
+				253
 			]
 		]
 	],
 	"weekCharacters": [
-		"",
-		"pinkie",
-		""
+		"dad",
+		"bf",
+		"gf"
 	],
 	"hiddenUntilUnlocked": false,
 	"weekName": "Custom Week"

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pinkamena.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PINKIE down0000" x="0" y="0" width="1016" height="689" pivotX="183.65" pivotY="-56.95" frameX="-36" frameY="0" frameWidth="1052" frameHeight="691"/>
+	<SubTexture name="PINKIE down0001" x="0" y="0" width="1016" height="689" frameX="-36" frameY="0" frameWidth="1052" frameHeight="691"/>
+	<SubTexture name="PINKIE down0002" x="1016" y="0" width="986" height="680" frameX="-9" frameY="-10" frameWidth="1052" frameHeight="691"/>
+	<SubTexture name="PINKIE down0003" x="1016" y="0" width="986" height="680" frameX="-9" frameY="-10" frameWidth="1052" frameHeight="691"/>
+	<SubTexture name="PINKIE down0004" x="2002" y="0" width="975" height="678" frameX="0" frameY="-13" frameWidth="1052" frameHeight="691"/>
+	<SubTexture name="PINKIE down0005" x="2002" y="0" width="975" height="678" frameX="0" frameY="-13" frameWidth="1052" frameHeight="691"/>
+	<SubTexture name="PINKIE down0006" x="2977" y="0" width="979" height="685" frameX="-5" frameY="-5" frameWidth="1052" frameHeight="691"/>
+	<SubTexture name="PINKIE down0007" x="2977" y="0" width="979" height="685" frameX="-5" frameY="-5" frameWidth="1052" frameHeight="691"/>
+	<SubTexture name="pinkeright0000" x="3956" y="0" width="1027" height="787" pivotX="27.95" pivotY="264.6" frameX="-87" frameY="0" frameWidth="1114" frameHeight="789"/>
+	<SubTexture name="pinkeright0001" x="3956" y="0" width="1027" height="787" frameX="-87" frameY="0" frameWidth="1114" frameHeight="789"/>
+	<SubTexture name="pinkeright0002" x="4983" y="0" width="1085" height="770" frameX="-20" frameY="-19" frameWidth="1114" frameHeight="789"/>
+	<SubTexture name="pinkeright0003" x="4983" y="0" width="1085" height="770" frameX="-20" frameY="-19" frameWidth="1114" frameHeight="789"/>
+	<SubTexture name="pinkeright0004" x="6068" y="0" width="1099" height="765" frameX="0" frameY="-24" frameWidth="1114" frameHeight="789"/>
+	<SubTexture name="pinkeright0005" x="6068" y="0" width="1099" height="765" frameX="0" frameY="-24" frameWidth="1114" frameHeight="789"/>
+	<SubTexture name="pinkeright0006" x="0" y="787" width="1092" height="770" frameX="-5" frameY="-19" frameWidth="1114" frameHeight="789"/>
+	<SubTexture name="pinkeright0007" x="0" y="787" width="1092" height="770" frameX="-5" frameY="-19" frameWidth="1114" frameHeight="789"/>
+	<SubTexture name="pinkie idle0000" x="1092" y="787" width="750" height="763" pivotX="3.2" pivotY="18.25" frameX="0" frameY="-52" frameWidth="750" frameHeight="815"/>
+	<SubTexture name="pinkie idle0001" x="1092" y="787" width="750" height="763" frameX="0" frameY="-52" frameWidth="750" frameHeight="815"/>
+	<SubTexture name="pinkie idle0002" x="1842" y="787" width="738" height="767" frameX="-8" frameY="-48" frameWidth="750" frameHeight="815"/>
+	<SubTexture name="pinkie idle0003" x="1842" y="787" width="738" height="767" frameX="-8" frameY="-48" frameWidth="750" frameHeight="815"/>
+	<SubTexture name="pinkie idle0004" x="2580" y="787" width="726" height="785" frameX="-5" frameY="-30" frameWidth="750" frameHeight="815"/>
+	<SubTexture name="pinkie idle0005" x="2580" y="787" width="726" height="785" frameX="-5" frameY="-30" frameWidth="750" frameHeight="815"/>
+	<SubTexture name="pinkie idle0006" x="3306" y="787" width="719" height="794" frameX="-3" frameY="-21" frameWidth="750" frameHeight="815"/>
+	<SubTexture name="pinkie idle0007" x="3306" y="787" width="719" height="794" frameX="-3" frameY="-21" frameWidth="750" frameHeight="815"/>
+	<SubTexture name="pinkie idle0008" x="4025" y="787" width="716" height="797" frameX="-3" frameY="-18" frameWidth="750" frameHeight="815"/>
+	<SubTexture name="pinkie idle0009" x="4025" y="787" width="716" height="797" frameX="-3" frameY="-18" frameWidth="750" frameHeight="815"/>
+	<SubTexture name="pinkie idle0010" x="4741" y="787" width="692" height="815" frameX="-3" frameY="0" frameWidth="750" frameHeight="815"/>
+	<SubTexture name="pinkie idle0011" x="4741" y="787" width="692" height="815" frameX="-3" frameY="0" frameWidth="750" frameHeight="815"/>
+	<SubTexture name="pinkie left0000" x="5433" y="787" width="864" height="1064" pivotX="329.45" pivotY="460.4" frameX="0" frameY="0" frameWidth="1035" frameHeight="1064"/>
+	<SubTexture name="pinkie left0001" x="5433" y="787" width="864" height="1064" frameX="0" frameY="0" frameWidth="1035" frameHeight="1064"/>
+	<SubTexture name="pinkie left0002" x="6297" y="787" width="966" height="945" frameX="-29" frameY="-117" frameWidth="1035" frameHeight="1064"/>
+	<SubTexture name="pinkie left0003" x="6297" y="787" width="966" height="945" frameX="-29" frameY="-117" frameWidth="1035" frameHeight="1064"/>
+	<SubTexture name="pinkie left0004" x="0" y="1851" width="994" height="897" frameX="-41" frameY="-164" frameWidth="1035" frameHeight="1064"/>
+	<SubTexture name="pinkie left0005" x="0" y="1851" width="994" height="897" frameX="-41" frameY="-164" frameWidth="1035" frameHeight="1064"/>
+	<SubTexture name="pinkie left0006" x="994" y="1851" width="986" height="909" frameX="-38" frameY="-152" frameWidth="1035" frameHeight="1064"/>
+	<SubTexture name="pinkie left0007" x="994" y="1851" width="986" height="909" frameX="-38" frameY="-152" frameWidth="1035" frameHeight="1064"/>
+	<SubTexture name="pinkie up0000" x="1980" y="1851" width="568" height="1096" pivotX="25.75" pivotY="139.35" frameX="-23" frameY="0" frameWidth="637" frameHeight="1096"/>
+	<SubTexture name="pinkie up0001" x="1980" y="1851" width="568" height="1096" frameX="-23" frameY="0" frameWidth="637" frameHeight="1096"/>
+	<SubTexture name="pinkie up0002" x="2548" y="1851" width="620" height="1045" frameX="-6" frameY="-51" frameWidth="637" frameHeight="1096"/>
+	<SubTexture name="pinkie up0003" x="2548" y="1851" width="620" height="1045" frameX="-6" frameY="-51" frameWidth="637" frameHeight="1096"/>
+	<SubTexture name="pinkie up0004" x="3168" y="1851" width="637" height="1027" frameX="0" frameY="-69" frameWidth="637" frameHeight="1096"/>
+	<SubTexture name="pinkie up0005" x="3168" y="1851" width="637" height="1027" frameX="0" frameY="-69" frameWidth="637" frameHeight="1096"/>
+	<SubTexture name="pinkie up0006" x="3805" y="1851" width="625" height="1036" frameX="-2" frameY="-60" frameWidth="637" frameHeight="1096"/>
+	<SubTexture name="pinkie up0007" x="3805" y="1851" width="625" height="1036" frameX="-2" frameY="-60" frameWidth="637" frameHeight="1096"/>
+</TextureAtlas>

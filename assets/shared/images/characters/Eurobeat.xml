@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Eurobeat.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TLT UP0000" x="0" y="0" width="813" height="932" frameX="-3" frameY="0" frameWidth="818" frameHeight="932"/>
+	<SubTexture name="TLT UP0001" x="0" y="0" width="813" height="932" frameX="-3" frameY="0" frameWidth="818" frameHeight="932"/>
+	<SubTexture name="TLT UP0002" x="813" y="0" width="816" height="915" frameX="-1" frameY="-14" frameWidth="818" frameHeight="932"/>
+	<SubTexture name="TLT UP0003" x="813" y="0" width="816" height="915" frameX="-1" frameY="-14" frameWidth="818" frameHeight="932"/>
+	<SubTexture name="TLT UP0004" x="1629" y="0" width="817" height="911" frameX="0" frameY="-18" frameWidth="818" frameHeight="932"/>
+	<SubTexture name="TLT UP0005" x="1629" y="0" width="817" height="911" frameX="0" frameY="-18" frameWidth="818" frameHeight="932"/>
+	<SubTexture name="TLT UP0006" x="2446" y="0" width="818" height="913" frameX="0" frameY="-15" frameWidth="818" frameHeight="932"/>
+	<SubTexture name="TLT UP0007" x="2446" y="0" width="818" height="913" frameX="0" frameY="-15" frameWidth="818" frameHeight="932"/>
+	<SubTexture name="tlt down0000" x="3264" y="0" width="850" height="873" frameX="0" frameY="-16" frameWidth="850" frameHeight="889"/>
+	<SubTexture name="tlt down0001" x="3264" y="0" width="850" height="873" frameX="0" frameY="-16" frameWidth="850" frameHeight="889"/>
+	<SubTexture name="tlt down0002" x="4114" y="0" width="843" height="885" frameX="-6" frameY="-4" frameWidth="850" frameHeight="889"/>
+	<SubTexture name="tlt down0003" x="4114" y="0" width="843" height="885" frameX="-6" frameY="-4" frameWidth="850" frameHeight="889"/>
+	<SubTexture name="tlt down0004" x="4957" y="0" width="841" height="888" frameX="-8" frameY="0" frameWidth="850" frameHeight="889"/>
+	<SubTexture name="tlt down0005" x="4957" y="0" width="841" height="888" frameX="-8" frameY="0" frameWidth="850" frameHeight="889"/>
+	<SubTexture name="tlt down0006" x="5798" y="0" width="841" height="887" frameX="-8" frameY="-2" frameWidth="850" frameHeight="889"/>
+	<SubTexture name="tlt down0007" x="5798" y="0" width="841" height="887" frameX="-8" frameY="-2" frameWidth="850" frameHeight="889"/>
+	<SubTexture name="tlt idle0000" x="6639" y="0" width="856" height="887" frameX="0" frameY="-35" frameWidth="856" frameHeight="922"/>
+	<SubTexture name="tlt idle0001" x="6639" y="0" width="856" height="887" frameX="0" frameY="-35" frameWidth="856" frameHeight="922"/>
+	<SubTexture name="tlt idle0002" x="0" y="932" width="841" height="888" frameX="-10" frameY="-30" frameWidth="856" frameHeight="922"/>
+	<SubTexture name="tlt idle0003" x="0" y="932" width="841" height="888" frameX="-10" frameY="-30" frameWidth="856" frameHeight="922"/>
+	<SubTexture name="tlt idle0004" x="841" y="932" width="828" height="893" frameX="-18" frameY="-24" frameWidth="856" frameHeight="922"/>
+	<SubTexture name="tlt idle0005" x="841" y="932" width="828" height="893" frameX="-18" frameY="-24" frameWidth="856" frameHeight="922"/>
+	<SubTexture name="tlt idle0006" x="1669" y="932" width="819" height="898" frameX="-22" frameY="-18" frameWidth="856" frameHeight="922"/>
+	<SubTexture name="tlt idle0007" x="1669" y="932" width="819" height="898" frameX="-22" frameY="-18" frameWidth="856" frameHeight="922"/>
+	<SubTexture name="tlt idle0008" x="2488" y="932" width="817" height="898" frameX="-24" frameY="-18" frameWidth="856" frameHeight="922"/>
+	<SubTexture name="tlt idle0009" x="2488" y="932" width="817" height="898" frameX="-24" frameY="-18" frameWidth="856" frameHeight="922"/>
+	<SubTexture name="tlt idle0010" x="3305" y="932" width="796" height="914" frameX="-31" frameY="0" frameWidth="856" frameHeight="922"/>
+	<SubTexture name="tlt idle0011" x="3305" y="932" width="796" height="914" frameX="-31" frameY="0" frameWidth="856" frameHeight="922"/>
+	<SubTexture name="tlt left0000" x="4101" y="932" width="790" height="904" frameX="0" frameY="0" frameWidth="816" frameHeight="904"/>
+	<SubTexture name="tlt left0001" x="4101" y="932" width="790" height="904" frameX="0" frameY="0" frameWidth="816" frameHeight="904"/>
+	<SubTexture name="tlt left0002" x="4891" y="932" width="804" height="902" frameX="-5" frameY="-2" frameWidth="816" frameHeight="904"/>
+	<SubTexture name="tlt left0003" x="4891" y="932" width="804" height="902" frameX="-5" frameY="-2" frameWidth="816" frameHeight="904"/>
+	<SubTexture name="tlt left0004" x="5695" y="932" width="809" height="901" frameX="-7" frameY="-3" frameWidth="816" frameHeight="904"/>
+	<SubTexture name="tlt left0005" x="5695" y="932" width="809" height="901" frameX="-7" frameY="-3" frameWidth="816" frameHeight="904"/>
+	<SubTexture name="tlt left0006" x="6504" y="932" width="808" height="903" frameX="-6" frameY="-1" frameWidth="816" frameHeight="904"/>
+	<SubTexture name="tlt left0007" x="6504" y="932" width="808" height="903" frameX="-6" frameY="-1" frameWidth="816" frameHeight="904"/>
+	<SubTexture name="tlt right0000" x="7312" y="932" width="864" height="893" frameX="-1" frameY="-2" frameWidth="865" frameHeight="895"/>
+	<SubTexture name="tlt right0001" x="7312" y="932" width="864" height="893" frameX="-1" frameY="-2" frameWidth="865" frameHeight="895"/>
+	<SubTexture name="tlt right0002" x="0" y="1846" width="854" height="892" frameX="0" frameY="0" frameWidth="865" frameHeight="895"/>
+	<SubTexture name="tlt right0003" x="0" y="1846" width="854" height="892" frameX="0" frameY="0" frameWidth="865" frameHeight="895"/>
+	<SubTexture name="tlt right0004" x="854" y="1846" width="850" height="893" frameX="0" frameY="0" frameWidth="865" frameHeight="895"/>
+	<SubTexture name="tlt right0005" x="854" y="1846" width="850" height="893" frameX="0" frameY="0" frameWidth="865" frameHeight="895"/>
+	<SubTexture name="tlt right0006" x="1704" y="1846" width="851" height="893" frameX="-1" frameY="0" frameWidth="865" frameHeight="895"/>
+	<SubTexture name="tlt right0007" x="1704" y="1846" width="851" height="893" frameX="-1" frameY="0" frameWidth="865" frameHeight="895"/>
+</TextureAtlas>

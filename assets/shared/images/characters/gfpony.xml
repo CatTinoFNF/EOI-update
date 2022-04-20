@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfpony.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf idle0000" x="0" y="0" width="1028" height="1179" frameX="0" frameY="-8" frameWidth="1028" frameHeight="1187"/>
+	<SubTexture name="gf idle0001" x="0" y="0" width="1028" height="1179" frameX="0" frameY="-8" frameWidth="1028" frameHeight="1187"/>
+	<SubTexture name="gf idle0002" x="1028" y="0" width="1020" height="1180" frameX="-4" frameY="-5" frameWidth="1028" frameHeight="1187"/>
+	<SubTexture name="gf idle0003" x="1028" y="0" width="1020" height="1180" frameX="-4" frameY="-5" frameWidth="1028" frameHeight="1187"/>
+	<SubTexture name="gf idle0004" x="2048" y="0" width="1014" height="1182" frameX="-7" frameY="-2" frameWidth="1028" frameHeight="1187"/>
+	<SubTexture name="gf idle0005" x="2048" y="0" width="1014" height="1182" frameX="-7" frameY="-2" frameWidth="1028" frameHeight="1187"/>
+	<SubTexture name="gf idle0006" x="3062" y="0" width="1010" height="1184" frameX="-9" frameY="0" frameWidth="1028" frameHeight="1187"/>
+	<SubTexture name="gf idle0007" x="3062" y="0" width="1010" height="1184" frameX="-9" frameY="0" frameWidth="1028" frameHeight="1187"/>
+	<SubTexture name="gf idle0008" x="0" y="1184" width="1010" height="1183" frameX="-9" frameY="0" frameWidth="1028" frameHeight="1187"/>
+	<SubTexture name="gf idle0009" x="0" y="1184" width="1010" height="1183" frameX="-9" frameY="0" frameWidth="1028" frameHeight="1187"/>
+	<SubTexture name="gf idle0010" x="1010" y="1184" width="1010" height="1183" frameX="-9" frameY="0" frameWidth="1028" frameHeight="1187"/>
+	<SubTexture name="gf idle0011" x="1010" y="1184" width="1010" height="1183" frameX="-9" frameY="0" frameWidth="1028" frameHeight="1187"/>
+	<SubTexture name="gf idle0012" x="2020" y="1184" width="1010" height="1183" frameX="-9" frameY="0" frameWidth="1028" frameHeight="1187"/>
+	<SubTexture name="gf idle0013" x="2020" y="1184" width="1010" height="1183" frameX="-9" frameY="0" frameWidth="1028" frameHeight="1187"/>
+</TextureAtlas>

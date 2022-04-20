@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfpony.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PINKIE BONK0000" x="0" y="0" width="783" height="787" pivotX="170.35" pivotY="164.95" frameX="-172" frameY="-174" frameWidth="1263" frameHeight="962"/>
+	<SubTexture name="PINKIE BONK0001" x="0" y="0" width="783" height="787" frameX="-172" frameY="-174" frameWidth="1263" frameHeight="962"/>
+	<SubTexture name="PINKIE BONK0002" x="783" y="0" width="509" height="766" frameX="-170" frameY="-195" frameWidth="1263" frameHeight="962"/>
+	<SubTexture name="PINKIE BONK0003" x="783" y="0" width="509" height="766" frameX="-170" frameY="-195" frameWidth="1263" frameHeight="962"/>
+	<SubTexture name="PINKIE BONK0004" x="1292" y="0" width="509" height="791" frameX="-174" frameY="-170" frameWidth="1263" frameHeight="962"/>
+	<SubTexture name="PINKIE BONK0005" x="1292" y="0" width="509" height="791" frameX="-174" frameY="-170" frameWidth="1263" frameHeight="962"/>
+	<SubTexture name="PINKIE BONK0006" x="1801" y="0" width="526" height="780" frameX="-170" frameY="-181" frameWidth="1263" frameHeight="962"/>
+	<SubTexture name="PINKIE BONK0007" x="2327" y="0" width="565" height="707" frameX="-186" frameY="-254" frameWidth="1263" frameHeight="962"/>
+	<SubTexture name="PINKIE BONK0008" x="2892" y="0" width="703" height="707" frameX="-186" frameY="-254" frameWidth="1263" frameHeight="962"/>
+	<SubTexture name="PINKIE BONK0009" x="0" y="791" width="809" height="735" frameX="-196" frameY="-226" frameWidth="1263" frameHeight="962"/>
+	<SubTexture name="PINKIE BONK0010" x="0" y="791" width="809" height="735" frameX="-196" frameY="-226" frameWidth="1263" frameHeight="962"/>
+	<SubTexture name="PINKIE BONK0011" x="809" y="791" width="790" height="731" frameX="-185" frameY="-230" frameWidth="1263" frameHeight="962"/>
+	<SubTexture name="PINKIE BONK0012" x="809" y="791" width="790" height="731" frameX="-185" frameY="-230" frameWidth="1263" frameHeight="962"/>
+	<SubTexture name="PINKIE BONK0013" x="809" y="791" width="790" height="731" frameX="-185" frameY="-230" frameWidth="1263" frameHeight="962"/>
+	<SubTexture name="PINKIE BONK0014" x="809" y="791" width="790" height="731" frameX="-185" frameY="-230" frameWidth="1263" frameHeight="962"/>
+	<SubTexture name="PINKIE BONK0015" x="809" y="791" width="790" height="731" frameX="-185" frameY="-230" frameWidth="1263" frameHeight="962"/>
+	<SubTexture name="PINKIE BONK0016" x="809" y="791" width="790" height="731" frameX="-185" frameY="-230" frameWidth="1263" frameHeight="962"/>
+	<SubTexture name="PINKIE BONK0017" x="809" y="791" width="790" height="731" frameX="-185" frameY="-230" frameWidth="1263" frameHeight="962"/>
+	<SubTexture name="PINKIE BONK0018" x="809" y="791" width="790" height="731" frameX="-185" frameY="-230" frameWidth="1263" frameHeight="962"/>
+	<SubTexture name="PINKIE BONK0019" x="1599" y="791" width="723" height="718" frameX="-190" frameY="-244" frameWidth="1263" frameHeight="962"/>
+	<SubTexture name="PINKIE BONK0020" x="1599" y="791" width="723" height="718" frameX="-190" frameY="-244" frameWidth="1263" frameHeight="962"/>
+	<SubTexture name="PINKIE BONK0021" x="2322" y="791" width="807" height="865" frameX="0" frameY="0" frameWidth="1263" frameHeight="962"/>
+	<SubTexture name="PINKIE BONK0022" x="2322" y="791" width="807" height="865" frameX="0" frameY="0" frameWidth="1263" frameHeight="962"/>
+	<SubTexture name="PINKIE BONK0023" x="0" y="1656" width="1030" height="648" frameX="-225" frameY="-159" frameWidth="1263" frameHeight="962"/>
+	<SubTexture name="PINKIE BONK0024" x="0" y="1656" width="1030" height="648" frameX="-225" frameY="-159" frameWidth="1263" frameHeight="962"/>
+	<SubTexture name="PINKIE BONK0025" x="1030" y="1656" width="1028" height="650" frameX="-235" frameY="-148" frameWidth="1263" frameHeight="962"/>
+	<SubTexture name="PINKIE BONK0026" x="1030" y="1656" width="1028" height="650" frameX="-235" frameY="-148" frameWidth="1263" frameHeight="962"/>
+	<SubTexture name="PINKIE BONK0027" x="1030" y="1656" width="1028" height="650" frameX="-235" frameY="-148" frameWidth="1263" frameHeight="962"/>
+	<SubTexture name="PINKIE BONK0028" x="1030" y="1656" width="1028" height="650" frameX="-235" frameY="-148" frameWidth="1263" frameHeight="962"/>
+	<SubTexture name="PINKIE BONK0029" x="1030" y="1656" width="1028" height="650" frameX="-235" frameY="-148" frameWidth="1263" frameHeight="962"/>
+	<SubTexture name="PINKIE BONK0030" x="1030" y="1656" width="1028" height="650" frameX="-235" frameY="-148" frameWidth="1263" frameHeight="962"/>
+	<SubTexture name="PINKIE BONK0031" x="1030" y="1656" width="1028" height="650" frameX="-235" frameY="-148" frameWidth="1263" frameHeight="962"/>
+	<SubTexture name="PINKIE BONK0032" x="1030" y="1656" width="1028" height="650" frameX="-235" frameY="-148" frameWidth="1263" frameHeight="962"/>
+	<SubTexture name="PINKIE BONK0033" x="1030" y="1656" width="1028" height="650" frameX="-235" frameY="-148" frameWidth="1263" frameHeight="962"/>
+	<SubTexture name="pinkie idle0000" x="2058" y="1656" width="750" height="763" pivotX="3.2" pivotY="18.25" frameX="0" frameY="-52" frameWidth="750" frameHeight="815"/>
+	<SubTexture name="pinkie idle0001" x="2058" y="1656" width="750" height="763" frameX="0" frameY="-52" frameWidth="750" frameHeight="815"/>
+	<SubTexture name="pinkie idle0002" x="2808" y="1656" width="738" height="767" frameX="-8" frameY="-48" frameWidth="750" frameHeight="815"/>
+	<SubTexture name="pinkie idle0003" x="2808" y="1656" width="738" height="767" frameX="-8" frameY="-48" frameWidth="750" frameHeight="815"/>
+	<SubTexture name="pinkie idle0004" x="0" y="2423" width="726" height="785" frameX="-5" frameY="-30" frameWidth="750" frameHeight="815"/>
+	<SubTexture name="pinkie idle0005" x="0" y="2423" width="726" height="785" frameX="-5" frameY="-30" frameWidth="750" frameHeight="815"/>
+	<SubTexture name="pinkie idle0006" x="726" y="2423" width="719" height="794" frameX="-3" frameY="-21" frameWidth="750" frameHeight="815"/>
+	<SubTexture name="pinkie idle0007" x="726" y="2423" width="719" height="794" frameX="-3" frameY="-21" frameWidth="750" frameHeight="815"/>
+	<SubTexture name="pinkie idle0008" x="1445" y="2423" width="716" height="797" frameX="-3" frameY="-18" frameWidth="750" frameHeight="815"/>
+	<SubTexture name="pinkie idle0009" x="1445" y="2423" width="716" height="797" frameX="-3" frameY="-18" frameWidth="750" frameHeight="815"/>
+	<SubTexture name="pinkie idle0010" x="2161" y="2423" width="692" height="815" frameX="-3" frameY="0" frameWidth="750" frameHeight="815"/>
+	<SubTexture name="pinkie idle0011" x="2161" y="2423" width="692" height="815" frameX="-3" frameY="0" frameWidth="750" frameHeight="815"/>
+</TextureAtlas>
